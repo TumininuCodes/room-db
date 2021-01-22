@@ -1,4 +1,4 @@
-package com.tumininu.roomdatabase
+package com.tumininu.roomdatabase.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
